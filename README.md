@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @cyzkrau
-- 👀 I’m interested in quantum computing, machine learning, image processing ...
-- 🌱 I’m currently learning quantum computing, image processing, numerical pde. 
+- 👋 Hi, I’m @cyzkrau, a student in USTC. 
+- 👀 I’m interested in machine learning, image processing, computer graphics ...
+- 🌱 I’m currently learning "Foundations of Machine Learning" and "Boosing Foundations and Algorithms" ...
 - 💞️ I’m looking to collaborate on some interesting or useful projects. 
 - 📫 You can contact me via <a href="mailto:cyzkrau@mail.ustc.edu.cn" target="_blank">cyzkrau@mail.ustc.edu.cn</a>
 
-welcome to my web: <a href="http://home.ustc.edu.cn/~cyzkrau" target="_blank">http://home.ustc.edu.cn/~cyzkrau</a>
+welcome to my web: <a href="https://cyzkrau.github.io/" target="_blank">https://cyzkrau.github.io/</a>
 
 <!---
 cyzkrau/cyzkrau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
