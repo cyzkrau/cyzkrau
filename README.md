@@ -7,7 +7,7 @@
 
 ### I'm cyzkrau
 
-- 👨 A Computational Mathematics Undergraduate Student & Open Source Enthusiast.
+- 👨 A computational mathematics undergraduate student & open source enthusiast.
 - 👀 I’m interested in machine learning, image processing. 
 - 🌱 I’m currently learning "Foundations of Machine Learning" and "Boosing Foundations and Algorithms". 
 - 💞️ I’m looking to collaborate on some interesting or useful projects. 
@@ -33,9 +33,5 @@
 
 ### 🔧 开源项目 | Open Source Projects
 - [基于Python实现每日自动跨校区报备](https://github.com/cyzkrau/AutoDailyReport-For-USTC)
-- [四个数字图像处理任务(课程作业)](https://github.com/cyzkrau/DIP_2021f)
+- [手势控制交互](https://github.com/cyzkrau/Gestures2Operation)
 - [若干计算机图形学任务(课程作业)](https://github.com/cyzkrau/CG_2022s)
-
-### 👨 关于我 ｜ About Me
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
